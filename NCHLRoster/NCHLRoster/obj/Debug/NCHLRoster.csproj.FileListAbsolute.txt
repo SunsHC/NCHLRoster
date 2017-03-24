@@ -1,0 +1,6 @@
+E:\DOCS\prog\NCHLRoster\NCHLRoster\NCHLRoster\bin\Debug\NCHLRoster.exe.config
+E:\DOCS\prog\NCHLRoster\NCHLRoster\NCHLRoster\bin\Debug\NCHLRoster.exe
+E:\DOCS\prog\NCHLRoster\NCHLRoster\NCHLRoster\bin\Debug\NCHLRoster.pdb
+E:\DOCS\prog\NCHLRoster\NCHLRoster\NCHLRoster\obj\Debug\NCHLRoster.csprojResolveAssemblyReference.cache
+E:\DOCS\prog\NCHLRoster\NCHLRoster\NCHLRoster\obj\Debug\NCHLRoster.exe
+E:\DOCS\prog\NCHLRoster\NCHLRoster\NCHLRoster\obj\Debug\NCHLRoster.pdb
