@@ -1,0 +1,10 @@
+"Jake Allen" OR "Frederik Andersen" OR "Nicklas Backstrom" OR "Aleksander Barkov" OR "Tyson Barrie" OR "Jake Bean" OR "Jean-Francois Berube" OR "Chris Bigras" OR "T.J. Brodie" OR "Laurent Brossoit" OR "Brent Burns" site:cbssports.com
+"Dustin Byfuglien" OR "Brandon Carlo" OR "Gabriel Carlsson" OR "Jeff Carter" OR "Thomas Chabot" OR "J.T. Compher" OR "Kyle Connor" OR "Oscar Dansk" OR "Leon Draisaitl" OR "Pierre-Luc Dubois" site:cbssports.com
+"Jordan Eberle" OR "Nikolaj Ehlers" OR "Dan Ellis" OR "Hudson Fasching" OR "Haydn Fleury" OR "Jakob Forsbacka Karlsson" OR "Cam Fowler" OR "Alex Galchenyuk" OR "Julien Gauthier" OR "Claude Giroux" site:cbssports.com
+"Mikael Granlund" OR "Jake Guentzel" OR "Denis Gurianov" OR "Connor Hellebuyck" OR "Tomas Hertl" OR "Nico Hischier" OR "Braden Holtby" OR "Jimmy Howard" OR "Jonathan Huberdeau" OR "Tomas Hyka" site:cbssports.com
+"Lucas Johansen" OR "Seth Jones" OR "Noah Juulsen" OR "Adrian Kempe" OR "Ryan Kesler" OR "Oscar Klefbom" OR "Anze Kopitar" OR "Joonas Korpisalo" OR "Luke Kunin" OR "Henrik Lundqvist" site:cbssports.com
+"Anthony Mantha" OR "Brad Marchand" OR "Ian McCoshen" OR "J.T. Miller" OR "Sean Monahan" OR "Samuel Montembeault" OR "Samuel Morin" OR "Vladislav Namestnikov" OR "Nino Niederreiter" OR "Darnell Nurse" site:cbssports.com
+"Max Pacioretty" OR "Colton Parayko" OR "Tyler Parsons" OR "Nick Paul" OR "Joe Pavelski" OR "Brett Pesce" OR "Alex Pietrangelo" OR "Jonathan Quick" OR "Victor Rask" OR "Tobias Rieder" site:cbssports.com
+"Brett Ritchie" OR "Jack Roslovic" OR "Bobby Ryan" OR "Travis Sanheim" OR "Steven Santini" OR "Nikita Scherbak" OR "Nick Schmaltz" OR "Mikhail Sergachev" OR "Damon Severson" OR "Vadim Shipachyov" site:cbssports.com
+"Brady Skjei" OR "Reilly Smith" OR "Jason Spezza" OR "Ryan Sproul" OR "Paul Stastny" OR "Dylan Strome" OR "Vladimir Tarasenko" OR "Tage Thompson" OR "Jacob Trouba" OR "James van Riemsdyk" site:cbssports.com
+"Alexander Wennberg" site:cbssports.com

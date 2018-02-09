@@ -1,0 +1,1 @@
+"Kyle Connor" OR "Nikolaj Ehlers" OR "Alex Galchenyuk" OR "Claude Giroux" OR "Jake Guentzel" OR "Tomas Hertl" OR "Jonathan Huberdeau" OR "Anthony Mantha" OR "Brad Marchand" OR "Vladislav Namestnikov" OR "Nino Niederreiter" OR "Max Pacioretty" OR "Nick Paul" OR "Nick Schmaltz" OR "James van Riemsdyk" site:cbssports.com

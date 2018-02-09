@@ -1,0 +1,1 @@
+"Sidney Crosby" OR "Matt Duchene" OR "Ryan Getzlaf" OR "Kevin Hayes" OR "Bo Horvat" OR "Ryan Johansen" OR "Dylan Larkin" OR "Steven Stamkos" OR "Sam Steel" OR "Oskar Sundqvist" OR "John Tavares" site:cbssports.com

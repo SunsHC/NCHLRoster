@@ -1,0 +1,9 @@
+"Zachary Aston-Reese" OR "Cam Atkinson" OR "Anthony Beauvillier" OR "Kieffer Bellows" OR "Tyler Bertuzzi" OR "Antoine Bibeau" OR "Ben Bishop" OR "Brock Boeser" OR "Pavel Buchnevich" OR "Andre Burakovsky" OR "John Carlson" site:cbssports.com
+"Dennis Cholowski" OR "Jared Coreau" OR "Sidney Crosby" OR "Michael Dal Colle" OR "Trevor Daley" OR "Calvin de Haan" OR "Jake DeBrusk" OR "Aaron Dell" OR "Max Domi" OR "Joonas Donskoi" site:cbssports.com
+"Matt Duchene" OR "Anthony Duclair" OR "Mattias Ekholm" OR "Oliver Ekman-Larsson" OR "Adam Erne" OR "Johnny Gaudreau" OR "Ryan Getzlaf" OR "Mike Green" OR "Johan Gustafsson" OR "Taylor Hall" site:cbssports.com
+"Dougie Hamilton" OR "Kevin Hayes" OR "Magnus Hellberg" OR "Bo Horvat" OR "Mattias Janmark" OR "Ryan Johansen" OR "Andreas Johnsson" OR "Kirill Kaprizov" OR "Erik Karlsson" OR "Phil Kessel" site:cbssports.com
+"Keith Kinkaid" OR "Yegor Korshkov" OR "Mikko Koskinen" OR "Eddie Lack" OR "Andrew Ladd" OR "Dylan Larkin" OR "Kris Letang" OR "Anders Lindback" OR "Esa Lindell" OR "Charlie Lindgren" site:cbssports.com
+"Hampus Lindholm" OR "Alex Lyon" OR "Patrick Marleau" OR "Steve Mason" OR "Rick Nash" OR "James Neal" OR "Brock Nelson" OR "Michal Neuvirth" OR "Anders Nilsson" OR "Alexander Nylander" site:cbssports.com
+"Kyle Okposo" OR "Ondrej Pavelec" OR "David Perron" OR "Corey Perry" OR "Cal Petersen" OR "Calvin Pickard" OR "Derrick Pouliot" OR "Carey Price" OR "Rickard Rakell" OR "Mikko Rantanen" site:cbssports.com
+"Nick Ritchie" OR "Igor Shesterkin" OR "Jaccob Slavin" OR "Brendan Smith" OR "Jared Spurgeon" OR "Alex Stalock" OR "Steven Stamkos" OR "Sam Steel" OR "Alexander Steen" OR "Chris Stewart" site:cbssports.com
+"P.K. Subban" OR "Oskar Sundqvist" OR "John Tavares" OR "Owen Tippett" OR "Riley Tufte" OR "Semyon Varlamov" OR "Andrei Vasilevskiy" OR "Sami Vatanen" OR "Jakub Vrana" OR "Kailer Yamamoto" site:cbssports.com

@@ -19,6 +19,7 @@ namespace NCHLRoster
                 if (team == NCHLTeam.AGL)
                     continue;
                 manager.GenerateTeamFile(team);
+                manager.GenerateAlertString(team);
             }
 
             manager.GenerateLeagueFile();

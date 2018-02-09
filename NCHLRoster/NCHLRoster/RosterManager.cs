@@ -36,6 +36,31 @@ namespace NCHLRoster
             }
         }
 
+        internal void GenerateAlertString(NCHLTeam team)
+        {
+            string path = $"AlertStrings/{team}.txt";
+            if (!Directory.Exists("AlertStrings"))
+                Directory.CreateDirectory("AlertStrings");
+
+            using (StreamWriter sw = new StreamWriter(path))
+            {
+                var playersList = Players.Where(pla => pla.NCHLTeam == team).OrderBy(pla => pla.Name.Split(' ')[1]);
+
+                for (int i = 0; i < playersList.Count(); i++)
+                {
+                    sw.Write($"\"{playersList.ElementAt(i).Name}\"");
+
+                    if (i == playersList.Count() - 1 || (i != 0 && i % 10 == 0))
+                    {
+                        sw.Write($" site:cbssports.com");
+                        sw.WriteLine();
+                    }
+                    else
+                        sw.Write($" OR ");
+                }
+            }            
+        }
+
         internal void GenerateTeamFile(NCHLTeam team)
         {
             using (StreamWriter sw = new StreamWriter(string.Format("Roster{0}.csv", team)))

@@ -1,0 +1,10 @@
+"Sebastian Aho" OR "Sven Andrighetto" OR "Viktor Arvidsson" OR "Yohann Auvitu" OR "Ivan Barbashev" OR "Mathew Barzal" OR "Jonathan Bernier" OR "Henrik Borgstrom" OR "Jeremy Bracco" OR "Will Butcher" OR "Drake Caggiula" site:cbssports.com
+"Drake Caggiula" OR "Zdeno Chara" OR "Sean Couturier" OR "Lawson Crouse" OR "Evgeny Dadonov" OR "Louis Domingue" OR "Drew Doughty" OR "Jonathan Drouin" OR "Ryan Ellis" OR "Spencer Foo" site:cbssports.com
+"Brendan Gallagher" OR "Jon Gillies" OR "Mark Giordano" OR "Alex Goligoski" OR "Thomas Greiss" OR "Travis Hamonic" OR "Noah Hanifin" OR "Ryan Hartman" OR "Mike Hoffman" OR "Patric Hornqvist" site:cbssports.com
+"Joshua Ho-Sang" OR "Zach Hyman" OR "Tyler Johnson" OR "Chad Johnson" OR "Martin Jones" OR "Olli Juolevi" OR "Nazem Kadri" OR "Vladislav Kamenev" OR "Evander Kane" OR "Kasperi Kapanen" site:cbssports.com
+"Alex Killorn" OR "Mikko Koivu" OR "Evgeny Kuznetsov" OR "Adam Larsson" OR "Jori Lehtera" OR "Kari Lehtonen" OR "Bryan Little" OR "Roberto Luongo" OR "Mitchell Marner" OR "Patrick Maroon" site:cbssports.com
+"Charlie McAvoy" OR "Jake McCabe" OR "Jared McCann" OR "Victor Mete" OR "Petr Mrazek" OR "Matt Murray" OR "Valeri Nichushkin" OR "Antti Niemi" OR "Matt Niskanen" OR "Artemi Panarin" site:cbssports.com
+"Mathieu Perreault" OR "Dion Phaneuf" OR "Brayden Point" OR "Teemu Pulkkinen" OR "Alexander Radulov" OR "Tuukka Rask" OR "Sam Reinhart" OR "Morgan Rielly" OR "Rasmus Ristolainen" OR "Justin Schultz" site:cbssports.com
+"Zach Senyshyn" OR "Patrick Sharp" OR "Kevin Shattenkirk" OR "Conor Sheary" OR "Anton Slepyshev" OR "Craig Smith" OR "Daniel Sprong" OR "Troy Stecher" OR "Mark Stone" OR "Ryan Strome" site:cbssports.com
+"Malcolm Subban" OR "Jordan Subban" OR "Cam Talbot" OR "Matthew Tkachuk" OR "Tyler Toffoli" OR "Kyle Turris" OR "Jimmy Vesey" OR "Cam Ward" OR "Scott Wedgewood" OR "Pavel Zacha" site:cbssports.com
+"Nikita Zadorov" OR "Nikita Zaitsev" OR "Jakub Zboril" OR "Henrik Zetterberg" OR "Mats Zuccarello" site:cbssports.com
