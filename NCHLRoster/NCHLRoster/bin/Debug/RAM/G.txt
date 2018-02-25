@@ -1,1 +1,0 @@
-"Craig Anderson" OR "Ilya Bryzgalov" OR "Corey Crawford" OR "Scott Darling" OR "Devan Dubnyk" OR "Brian Elliott" OR "Marc-Andre Fleury" OR "John Gibson" OR "Jaroslav Halak" OR "Carter Hart" OR "Michael Hutchinson" OR "Anton Khudobin" OR "Darcy Kuemper" OR "Antti Raanta" OR "Garret Sparks" site:cbssports.com

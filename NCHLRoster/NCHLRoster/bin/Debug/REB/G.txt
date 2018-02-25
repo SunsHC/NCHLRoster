@@ -1,1 +1,0 @@
-"Jordan Binnington" OR "Sergei Bobrovsky" OR "Mike Condon" OR "Anton Forsberg" OR "Philipp Grubauer" OR "Kristers Gudlevskis" OR "Filip Gustavsson" OR "Carter Hutton" OR "Robin Lehner" OR "Jacob Markstrom" OR "Zane McIntyre" OR "James Reimer" OR "Pekka Rinne" OR "Cory Schneider" OR "Mike Smith" OR "Linus Ullmark" site:cbssports.com

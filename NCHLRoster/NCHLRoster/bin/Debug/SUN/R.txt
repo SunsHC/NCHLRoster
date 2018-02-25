@@ -1,1 +1,0 @@
-"Leon Draisaitl" OR "Jordan Eberle" OR "Hudson Fasching" OR "Julien Gauthier" OR "Mikael Granlund" OR "Denis Gurianov" OR "Tomas Hyka" OR "Luke Kunin" OR "J.T. Miller" OR "Joe Pavelski" OR "Tobias Rieder" OR "Brett Ritchie" OR "Bobby Ryan" OR "Nikita Scherbak" OR "Reilly Smith" OR "Vladimir Tarasenko" site:cbssports.com

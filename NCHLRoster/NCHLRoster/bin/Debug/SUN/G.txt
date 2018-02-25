@@ -1,1 +1,0 @@
-"Jake Allen" OR "Frederik Andersen" OR "Jean-Francois Berube" OR "Laurent Brossoit" OR "Oscar Dansk" OR "Dan Ellis" OR "Connor Hellebuyck" OR "Braden Holtby" OR "Jimmy Howard" OR "Joonas Korpisalo" OR "Henrik Lundqvist" OR "Samuel Montembeault" OR "Tyler Parsons" OR "Jonathan Quick" site:cbssports.com

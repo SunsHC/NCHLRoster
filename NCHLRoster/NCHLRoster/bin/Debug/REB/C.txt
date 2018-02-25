@@ -1,1 +1,0 @@
-"Logan Couture" OR "Jason Dickinson" OR "Curtis Lazar" OR "Auston Matthews" OR "Connor McDavid" OR "Michael McLeod" OR "Ryan Nugent-Hopkins" OR "Daniel O'Regan" OR "Nolan Patrick" OR "Brayden Schenn" OR "Tyler Seguin" OR "Eric Staal" OR "Jonathan Toews" OR "Mika Zibanejad" site:cbssports.com
