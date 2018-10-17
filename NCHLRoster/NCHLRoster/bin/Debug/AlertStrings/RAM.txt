@@ -1,10 +1,9 @@
-"Craig Anderson" OR "Andreas Athanasiou" OR "Sven Baertschi" OR "Nathan Beaulieu" OR "Patrice Bergeron" OR "Anders Bjork" OR "Mackenzie Blackwood" OR "Logan Brown" OR "Filip Chytil" OR "Nick Cousins" OR "Corey Crawford" site:cbssports.com
-"Scott Darling" OR "Anthony DeAngelo" OR "Alex DeBrincat" OR "Michael Dipietro" OR "Devan Dubnyk" OR "Christian Dvorak" OR "Jack Eichel" OR "Aaron Ekblad" OR "Brian Elliott" OR "Joel Eriksson Ek" site:cbssports.com
-"Robby Fabbri" OR "Dante Fabbro" OR "Marc-Andre Fleury" OR "Nick Foligno" OR "Callan Foote" OR "John Gibson" OR "Cody Glass" OR "Nikolay Goldobin" OR "Jaroslav Halak" OR "Carter Hart" site:cbssports.com
-"Jayce Hawryluk" OR "Victor Hedman" OR "Brett Howden" OR "Michael Hutchinson" OR "Ben Hutton" OR "Tristan Jarry" OR "Boone Jenner" OR "Roman Josi" OR "Alexander Kerfoot" OR "Anton Khudobin" site:cbssports.com
-"John Klingberg" OR "Travis Konecny" OR "Nikita Kucherov" OR "Darcy Kuemper" OR "Patrik Laine" OR "Gabriel Landeskog" OR "Nick Leddy" OR "Anders Lee" OR "Olli Maatta" OR "Nathan MacKinnon" site:cbssports.com
-"Evgeni Malkin" OR "Michael McCarron" OR "Ryan McDonagh" OR "Timo Meier" OR "Colin Miller" OR "Josh Morrissey" OR "Tyler Motte" OR "Ryan Murray" OR "Jake Muzzin" OR "Alex Nedeljkovic" site:cbssports.com
-"Gustav Nyquist" OR "Ryan O'Reilly" OR "T.J. Oshie" OR "Alex Ovechkin" OR "Ondrej Palat" OR "Kyle Palmieri" OR "David Pastrnak" OR "Tanner Pearson" OR "Ivan Provorov" OR "Antti Raanta" site:cbssports.com
-"Jeremy Roy" OR "Kerby Rychel" OR "Brandon Saad" OR "Juuse Saros" OR "Mark Scheifele" OR "Jaden Schwartz" OR "Brent Seabrook" OR "Wayne Simmonds" OR "Jeff Skinner" OR "Derek Stepan" site:cbssports.com
-"Anthony Stolarz" OR "Evgeny Svechnikov" OR "Teuvo Teravainen" OR "Shea Theodore" OR "Vincent Trocheck" OR "Alex Tuch" OR "Juuso Valimaki" OR "Gabriel Vilardi" OR "Jake Virtanen" OR "Colin White" site:cbssports.com
-"Keith Yandle" OR "Jason Zucker" site:cbssports.com
+"Craig Anderson" OR "Andreas Athanasiou" OR "Josh Bailey" OR "Nicolas Beaudin" OR "Patrice Bergeron" OR "Anders Bjork" OR "Mackenzie Blackwood" OR "Sammy Blais" OR "Evan Bouchard" OR "Logan Brown" OR "Filip Chytil" site:cbssports.com
+"Nick Cousins" OR "Corey Crawford" OR "Scott Darling" OR "Anthony DeAngelo" OR "Alex DeBrincat" OR "Ty Dellandrea" OR "Michael Dipietro" OR "Dylan Dube" OR "Devan Dubnyk" OR "Christian Dvorak" site:cbssports.com
+"Jack Eichel" OR "Aaron Ekblad" OR "Brian Elliott" OR "Joel Eriksson Ek" OR "Robby Fabbri" OR "Dante Fabbro" OR "Joel Farabee" OR "Marc-Andre Fleury" OR "Callan Foote" OR "John Gibson" site:cbssports.com
+"Cody Glass" OR "Nikolay Goldobin" OR "Carter Hart" OR "Jayce Hawryluk" OR "Victor Hedman" OR "Brett Howden" OR "Michael Hutchinson" OR "Ben Hutton" OR "Alex Iafallo" OR "Tristan Jarry" site:cbssports.com
+"Roman Josi" OR "Dominik Kahun" OR "Alexander Kerfoot" OR "Anton Khudobin" OR "John Klingberg" OR "Travis Konecny" OR "Nikita Kucherov" OR "Patrik Laine" OR "Gabriel Landeskog" OR "Nick Leddy" site:cbssports.com
+"Anders Lee" OR "Nathan MacKinnon" OR "Evgeni Malkin" OR "Michael McCarron" OR "Ryan McDonagh" OR "Timo Meier" OR "Ryan Merkley" OR "Colin Miller" OR "Josh Morrissey" OR "Tyler Motte" site:cbssports.com
+"Jake Muzzin" OR "Alex Nedeljkovic" OR "Jay O'Brien" OR "Ryan O'Reilly" OR "T.J. Oshie" OR "Alex Ovechkin" OR "Ondrej Palat" OR "Kyle Palmieri" OR "David Pastrnak" OR "Ivan Provorov" site:cbssports.com
+"Antti Raanta" OR "Jeremy Roy" OR "Kerby Rychel" OR "Juuse Saros" OR "Mark Scheifele" OR "Jaden Schwartz" OR "Wayne Simmonds" OR "Jeff Skinner" OR "Derek Stepan" OR "Anthony Stolarz" site:cbssports.com
+"Evgeny Svechnikov" OR "Teuvo Teravainen" OR "Shea Theodore" OR "Vincent Trocheck" OR "Alex Tuch" OR "Juuso Valimaki" OR "Gabriel Vilardi" OR "Jake Virtanen" OR "Colin White" OR "Jason Zucker" site:cbssports.com

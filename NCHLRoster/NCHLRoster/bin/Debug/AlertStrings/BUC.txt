@@ -1,10 +1,10 @@
-"Sebastian Aho" OR "Lias Andersson" OR "Sven Andrighetto" OR "Viktor Arvidsson" OR "Yohann Auvitu" OR "Ivan Barbashev" OR "Mathew Barzal" OR "Jonathan Bernier" OR "Henrik Borgstrom" OR "Jeremy Bracco" OR "Will Butcher" site:cbssports.com
-"Drake Caggiula" OR "Zdeno Chara" OR "Eric Comrie" OR "Sean Couturier" OR "Lawson Crouse" OR "Evgenii Dadonov" OR "Louis Domingue" OR "Drew Doughty" OR "Jonathan Drouin" OR "Ryan Ellis" site:cbssports.com
-"Evan Fitzpatrick" OR "Spencer Foo" OR "Brendan Gallagher" OR "Jon Gillies" OR "Alex Goligoski" OR "Thomas Greiss" OR "Filip Gustavsson" OR "Travis Hamonic" OR "Noah Hanifin" OR "Ryan Hartman" site:cbssports.com
-"Mike Hoffman" OR "Patric Hornqvist" OR "Joshua Ho-Sang" OR "Zach Hyman" OR "Tyler Johnson" OR "Chad Johnson" OR "Martin Jones" OR "Olli Juolevi" OR "Nazem Kadri" OR "Vladislav Kamenev" site:cbssports.com
-"Evander Kane" OR "Kasperi Kapanen" OR "Alex Killorn" OR "Mikko Koivu" OR "Evgeny Kuznetsov" OR "Adam Larsson" OR "Jori Lehtera" OR "Kari Lehtonen" OR "Bryan Little" OR "Roberto Luongo" site:cbssports.com
-"Mitchell Marner" OR "Patrick Maroon" OR "Charlie McAvoy" OR "Jake McCabe" OR "Victor Mete" OR "Casey Mittelstadt" OR "Petr Mrazek" OR "Matt Murray" OR "Valeri Nichushkin" OR "Antti Niemi" site:cbssports.com
-"Matt Niskanen" OR "Jake Oettinger" OR "Artemi Panarin" OR "Mathieu Perreault" OR "Dion Phaneuf" OR "Brayden Point" OR "Teemu Pulkkinen" OR "Alexander Radulov" OR "Tuukka Rask" OR "Michael Rasmussen" site:cbssports.com
-"Sam Reinhart" OR "Morgan Rielly" OR "Rasmus Ristolainen" OR "Justin Schultz" OR "Zach Senyshyn" OR "Patrick Sharp" OR "Kevin Shattenkirk" OR "Conor Sheary" OR "Anton Slepyshev" OR "Ilya Sorokin" site:cbssports.com
-"Daniel Sprong" OR "Troy Stecher" OR "Mark Stone" OR "Ryan Strome" OR "Malcolm Subban" OR "Jordan Subban" OR "Cam Talbot" OR "Matthew Tkachuk" OR "Tyler Toffoli" OR "Eeli Tolvanen" site:cbssports.com
-"Kyle Turris" OR "Jimmy Vesey" OR "Cam Ward" OR "Scott Wedgewood" OR "Pavel Zacha" OR "Nikita Zadorov" OR "Nikita Zaitsev" OR "Jakub Zboril" OR "Henrik Zetterberg" OR "Mats Zuccarello" site:cbssports.com
+"Sebastian Aho" OR "Lias Andersson" OR "Sven Andrighetto" OR "Viktor Arvidsson" OR "Ivan Barbashev" OR "Mathew Barzal" OR "Jonathan Bernier" OR "Adam Boqvist" OR "Henrik Borgstrom" OR "Will Butcher" OR "Eric Comrie" site:cbssports.com
+"Sean Couturier" OR "Lawson Crouse" OR "Evgenii Dadonov" OR "Rasmus Dahlin" OR "Grigori Denisenko" OR "Louis Domingue" OR "Drew Doughty" OR "Jonathan Drouin" OR "Vince Dunn" OR "Alexander Edler" site:cbssports.com
+"Ryan Ellis" OR "Evan Fitzpatrick" OR "Spencer Foo" OR "Brendan Gallagher" OR "Jon Gillies" OR "Alex Goligoski" OR "Thomas Greiss" OR "Nikita Gusev" OR "Travis Hamonic" OR "Noah Hanifin" site:cbssports.com
+"Mike Hoffman" OR "Patric Hornqvist" OR "Joshua Ho-Sang" OR "Quintin Hughes" OR "Zach Hyman" OR "Tyler Johnson" OR "Chad Johnson" OR "Martin Jones" OR "Olli Juolevi" OR "Nazem Kadri" site:cbssports.com
+"Vladislav Kamenev" OR "Evander Kane" OR "Kasperi Kapanen" OR "William Karlsson" OR "Martin Kaut" OR "Jesperi Kotkaniemi" OR "Darcy Kuemper" OR "Evgeny Kuznetsov" OR "Isac Lundestrom" OR "Roberto Luongo" site:cbssports.com
+"Jonathan Marchessault" OR "Mitchell Marner" OR "Patrick Maroon" OR "Charlie McAvoy" OR "Victor Mete" OR "Casey Mittelstadt" OR "Petr Mrazek" OR "Matt Murray" OR "Valeri Nichushkin" OR "Antti Niemi" site:cbssports.com
+"Sami Niku" OR "Matt Niskanen" OR "Jake Oettinger" OR "Artemi Panarin" OR "Brayden Point" OR "Alexander Radulov" OR "Tuukka Rask" OR "Michael Rasmussen" OR "Ty Rattie" OR "Sam Reinhart" site:cbssports.com
+"Morgan Rielly" OR "Rasmus Ristolainen" OR "Brandon Saad" OR "Justin Schultz" OR "Zach Senyshyn" OR "Kevin Shattenkirk" OR "Conor Sheary" OR "Dylan Sikura" OR "Ilya Sorokin" OR "Daniel Sprong" site:cbssports.com
+"Troy Stecher" OR "Malcolm Subban" OR "Jordan Subban" OR "Cam Talbot" OR "Matthew Tkachuk" OR "Brady Tkachuk" OR "Tyler Toffoli" OR "Eeli Tolvanen" OR "Kyle Turris" OR "James van Riemsdyk" site:cbssports.com
+"Jimmy Vesey" OR "Cam Ward" OR "Scott Wedgewood" OR "Keith Yandle" OR "Pavel Zacha" OR "Nikita Zaitsev" site:cbssports.com

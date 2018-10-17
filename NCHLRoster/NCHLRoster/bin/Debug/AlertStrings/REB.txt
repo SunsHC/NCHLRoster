@@ -1,10 +1,10 @@
-"David Backes" OR "Jamie Benn" OR "Sam Bennett" OR "Tyler Benson" OR "Antoine Bibeau" OR "Jordan Binnington" OR "Paul Bittner" OR "Oliver Bjorkstrand" OR "Sergei Bobrovsky" OR "Reid Boucher" OR "Madison Bowey" site:cbssports.com
-"Erik Brannstrom" OR "Cody Ceci" OR "Jakob Chychrun" OR "Mike Condon" OR "Logan Couture" OR "Charlie Coyle" OR "Jason Dickinson" OR "Matt Dumba" OR "Justin Faulk" OR "Kevin Fiala" site:cbssports.com
-"Christian Fischer" OR "Filip Forsberg" OR "Anton Forsberg" OR "Jake Gardiner" OR "Mark Giordano" OR "Shayne Gostisbehere" OR "Philipp Grubauer" OR "Kristers Gudlevskis" OR "Miro Heiskanen" OR "Julius Honka" site:cbssports.com
-"Carter Hutton" OR "Marcus Johansson" OR "Erik Johnson" OR "Max Jones" OR "Tyson Jost" OR "Patrick Kane" OR "Duncan Keith" OR "Clayton Keller" OR "Slater Koekkoek" OR "Chris Kreider" site:cbssports.com
-"Torey Krug" OR "Oliver Kylington" OR "Kevin Labanc" OR "Curtis Lazar" OR "Robin Lehner" OR "Brendan Lemieux" OR "Timothy Liljegren" OR "Elias Lindholm" OR "Milan Lucic" OR "Jacob Markstrom" site:cbssports.com
-"Mike Matheson" OR "Auston Matthews" OR "Connor McDavid" OR "Mason McDonald" OR "Zane McIntyre" OR "Roland McKeown" OR "Michael McLeod" OR "Nick Merkley" OR "Sonny Milano" OR "Brandon Montour" site:cbssports.com
-"Martin Necas" OR "Ryan Nugent-Hopkins" OR "William Nylander" OR "Daniel O'Regan" OR "Xavier Ouellet" OR "Zach Parise" OR "Nolan Patrick" OR "Brendan Perlini" OR "Nic Petan" OR "Matt Puempel" site:cbssports.com
-"Jesse Puljujarvi" OR "Ryan Pulock" OR "James Reimer" OR "Pekka Rinne" OR "Brayden Schenn" OR "Jordan Schmaltz" OR "Cory Schneider" OR "Tyler Seguin" OR "Jakob Silfverberg" OR "Mike Smith" site:cbssports.com
-"Eric Staal" OR "Matthew Strome" OR "Ryan Suter" OR "Tomas Tatar" OR "Robert Thomas" OR "Jonathan Toews" OR "Linus Ullmark" OR "Thomas Vanek" OR "Frank Vatrano" OR "Jakub Voracek" site:cbssports.com
-"Shea Weber" OR "Zach Werenski" OR "Blake Wheeler" OR "Mika Zibanejad" site:cbssports.com
+"David Backes" OR "Jamie Benn" OR "Sam Bennett" OR "Tyler Benson" OR "Antoine Bibeau" OR "Jordan Binnington" OR "Oliver Bjorkstrand" OR "Sergei Bobrovsky" OR "Madison Bowey" OR "Erik Brannstrom" OR "Jakob Chychrun" site:cbssports.com
+"Mike Condon" OR "Logan Couture" OR "Charlie Coyle" OR "Jason Dickinson" OR "Matt Dumba" OR "Justin Faulk" OR "Kevin Fiala" OR "Christian Fischer" OR "Filip Forsberg" OR "Anton Forsberg" site:cbssports.com
+"Jake Gardiner" OR "Mark Giordano" OR "Shayne Gostisbehere" OR "Philipp Grubauer" OR "Kristers Gudlevskis" OR "Miro Heiskanen" OR "Julius Honka" OR "Carter Hutton" OR "Erik Johnson" OR "Max Jones" site:cbssports.com
+"Tyson Jost" OR "Patrick Kane" OR "Ondrej Kase" OR "Duncan Keith" OR "Clayton Keller" OR "Slater Koekkoek" OR "Ilya Kovalchuk" OR "Chris Kreider" OR "Torey Krug" OR "Oliver Kylington" site:cbssports.com
+"Jordan Kyrou" OR "Kevin Labanc" OR "Robin Lehner" OR "Brendan Lemieux" OR "Timothy Liljegren" OR "Elias Lindholm" OR "Milan Lucic" OR "Jacob Markstrom" OR "Mike Matheson" OR "Auston Matthews" site:cbssports.com
+"Connor McDavid" OR "Mason McDonald" OR "Zane McIntyre" OR "Michael McLeod" OR "Nick Merkley" OR "Sonny Milano" OR "Brandon Montour" OR "Martin Necas" OR "Serron Noel" OR "Ryan Nugent-Hopkins" site:cbssports.com
+"William Nylander" OR "Daniel O'Regan" OR "Xavier Ouellet" OR "Zach Parise" OR "Nolan Patrick" OR "Brendan Perlini" OR "Nic Petan" OR "Colton Point" OR "Matt Puempel" OR "Jesse Puljujarvi" site:cbssports.com
+"Ryan Pulock" OR "James Reimer" OR "Pekka Rinne" OR "Olivier Rodrigue" OR "Brayden Schenn" OR "Jordan Schmaltz" OR "Cory Schneider" OR "Tyler Seguin" OR "Jakob Silfverberg" OR "Mike Smith" site:cbssports.com
+"Ty Smith" OR "Eric Staal" OR "Matthew Strome" OR "Ryan Suter" OR "Robert Thomas" OR "Akil Thomas" OR "Jonathan Toews" OR "Linus Ullmark" OR "Thomas Vanek" OR "Frank Vatrano" site:cbssports.com
+"Jakub Voracek" OR "Oliver Wahlstrom" OR "Shea Weber" OR "Zach Werenski" OR "Blake Wheeler" OR "Mika Zibanejad" OR "Mats Zuccarello" OR "Valentin Zykov" site:cbssports.com

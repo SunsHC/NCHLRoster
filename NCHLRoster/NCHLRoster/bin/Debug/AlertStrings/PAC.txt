@@ -1,10 +1,10 @@
-"Zach Aston-Reese" OR "Cam Atkinson" OR "Anthony Beauvillier" OR "Kieffer Bellows" OR "Tyler Bertuzzi" OR "Ben Bishop" OR "Brock Boeser" OR "Pavel Buchnevich" OR "Andre Burakovsky" OR "John Carlson" OR "Dennis Cholowski" site:cbssports.com
-"Jared Coreau" OR "Sidney Crosby" OR "Michael Dal Colle" OR "Trevor Daley" OR "Calvin de Haan" OR "Jake DeBrusk" OR "Aaron Dell" OR "Max Domi" OR "Joonas Donskoi" OR "Matt Duchene" site:cbssports.com
-"Anthony Duclair" OR "Mattias Ekholm" OR "Oliver Ekman-Larsson" OR "Adam Erne" OR "Zach Fucale" OR "Johnny Gaudreau" OR "Ryan Getzlaf" OR "Mike Green" OR "Johan Gustafsson" OR "Taylor Hall" site:cbssports.com
-"Brandon Halverson" OR "Dougie Hamilton" OR "Kevin Hayes" OR "Magnus Hellberg" OR "Bo Horvat" OR "Mattias Janmark" OR "Ryan Johansen" OR "Jonas Johansson" OR "Andreas Johnsson" OR "Kirill Kaprizov" site:cbssports.com
-"Erik Karlsson" OR "Phil Kessel" OR "Keith Kinkaid" OR "Yegor Korshkov" OR "Mikko Koskinen" OR "Klim Kostin" OR "Eddie Lack" OR "Andrew Ladd" OR "Dylan Larkin" OR "Kris Letang" site:cbssports.com
-"Esa Lindell" OR "Charlie Lindgren" OR "Hampus Lindholm" OR "Henrik Lundqvist" OR "Ukko-Pekka Luukkonen" OR "Alex Lyon" OR "Patrick Marleau" OR "Steve Mason" OR "Rick Nash" OR "James Neal" site:cbssports.com
-"Brock Nelson" OR "Michal Neuvirth" OR "Anders Nilsson" OR "Alexander Nylander" OR "Kyle Okposo" OR "Ondrej Pavelec" OR "David Perron" OR "Corey Perry" OR "Cal Petersen" OR "Keith Petruzzelli" site:cbssports.com
-"Elias Pettersson" OR "Calvin Pickard" OR "Derrick Pouliot" OR "Carey Price" OR "Rickard Rakell" OR "Mikko Rantanen" OR "Isaac Ratcliffe" OR "Nick Ritchie" OR "Ilya Samsonov" OR "Felix Sandstrom" site:cbssports.com
-"Harri Sateri" OR "Igor Shesterkin" OR "Jaccob Slavin" OR "Brendan Smith" OR "Jared Spurgeon" OR "Alex Stalock" OR "Steven Stamkos" OR "Alexander Steen" OR "P.K. Subban" OR "John Tavares" site:cbssports.com
-"Riley Tufte" OR "Vitek Vanecek" OR "Semyon Varlamov" OR "Andrei Vasilevskiy" OR "Sami Vatanen" OR "Alexander Volkov" OR "Jakub Vrana" OR "Kailer Yamamoto" site:cbssports.com
+"Zach Aston-Reese" OR "Cam Atkinson" OR "Sven Baertschi" OR "Anthony Beauvillier" OR "Kieffer Bellows" OR "Tyler Bertuzzi" OR "Ben Bishop" OR "Brock Boeser" OR "Dominik Bokk" OR "Pavel Buchnevich" OR "Andre Burakovsky" site:cbssports.com
+"John Carlson" OR "Dennis Cholowski" OR "Jared Coreau" OR "Sidney Crosby" OR "Jake DeBrusk" OR "Aaron Dell" OR "Max Domi" OR "Joonas Donskoi" OR "Matt Duchene" OR "Anthony Duclair" site:cbssports.com
+"Mattias Ekholm" OR "Oliver Ekman-Larsson" OR "Warren Foegele" OR "Pavel Francouz" OR "Johnny Gaudreau" OR "Ryan Getzlaf" OR "Samuel Girard" OR "Jordan Greenway" OR "Johan Gustafsson" OR "Taylor Hall" site:cbssports.com
+"Dougie Hamilton" OR "Magnus Hellberg" OR "Bo Horvat" OR "Mattias Janmark" OR "Ryan Johansen" OR "Jonas Johansson" OR "Andreas Johnsson" OR "Kirill Kaprizov" OR "Erik Karlsson" OR "Phil Kessel" site:cbssports.com
+"Keith Kinkaid" OR "Yegor Korshkov" OR "Mikko Koskinen" OR "Klim Kostin" OR "Vitali Kravtsov" OR "Rasmus Kupari" OR "Eddie Lack" OR "Dylan Larkin" OR "Kris Letang" OR "Olof Lindbom" site:cbssports.com
+"Esa Lindell" OR "Charlie Lindgren" OR "Hampus Lindholm" OR "Henrik Lundqvist" OR "Ukko-Pekka Luukkonen" OR "Alex Lyon" OR "Patrick Marleau" OR "James Neal" OR "Michal Neuvirth" OR "Anders Nilsson" site:cbssports.com
+"Alexander Nylander" OR "Kyle Okposo" OR "David Perron" OR "Corey Perry" OR "Cal Petersen" OR "Keith Petruzzelli" OR "Elias Pettersson" OR "Calvin Pickard" OR "Derrick Pouliot" OR "Carey Price" site:cbssports.com
+"Rickard Rakell" OR "Mikko Rantanen" OR "Isaac Ratcliffe" OR "Nick Ritchie" OR "David Rittich" OR "Ilya Samsonov" OR "Felix Sandstrom" OR "Igor Shesterkin" OR "Jakub Skarek" OR "Jaccob Slavin" site:cbssports.com
+"Jared Spurgeon" OR "Alex Stalock" OR "Steven Stamkos" OR "Alexander Steen" OR "Mark Stone" OR "P.K. Subban" OR "John Tavares" OR "Riley Tufte" OR "Vitek Vanecek" OR "Semyon Varlamov" site:cbssports.com
+"Andrei Vasilevskiy" OR "Sami Vatanen" OR "Joseph Veleno" OR "Alexander Volkov" OR "Jakub Vrana" OR "Kailer Yamamoto" OR "Filip Zadina" site:cbssports.com
